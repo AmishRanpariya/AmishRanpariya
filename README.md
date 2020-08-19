@@ -89,7 +89,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </p>
 
-<br/>
+
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishranpariya&layout=compact&theme=radical" alt="amishranpariya" />
 </p>
@@ -97,7 +97,7 @@
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amishranpariya&show_icons=true&theme=radical" alt="amishranpariya" />
 </p>
-<br/>
+
 <p align="center">
 <a href="https://twitter.com/amish_ranpariya" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amish_ranpariya" height="30" width="30" />
