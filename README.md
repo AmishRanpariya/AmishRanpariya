@@ -10,7 +10,22 @@
 - 📫 How to reach me **amishranpariya@gmail.com**
 
 - ⚡ Fun fact **Mobile coder too!! 🙃**
+<br/>
 
+<p align="left">
+<a href="https://twitter.com/amish_ranpariya" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amish_ranpariya" height="30" width="30" />
+</a>
+<a href="https://fb.com/ranpariya.amish" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ranpariya.amish" height="30" width="30" />
+</a>
+<a href="https://instagram.com/amish_ranpariya" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amish_ranpariya" height="30" width="30" />
+</a>
+<a href="https://www.youtube.com/c/amish ranpariya" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="amish ranpariya" height="30" width="30" />
+</a>
+</p>
 <h5 align="left">Programming languages</h5>
 <p align="left">
 
@@ -98,17 +113,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amishranpariya&show_icons=true&theme=radical" alt="amishranpariya" />
 </p>
 
-<p align="center">
-<a href="https://twitter.com/amish_ranpariya" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amish_ranpariya" height="30" width="30" />
-</a>
-<a href="https://fb.com/ranpariya.amish" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ranpariya.amish" height="30" width="30" />
-</a>
-<a href="https://instagram.com/amish_ranpariya" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amish_ranpariya" height="30" width="30" />
-</a>
-<a href="https://www.youtube.com/c/amish ranpariya" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="amish ranpariya" height="30" width="30" />
-</a>
-</p>
+
