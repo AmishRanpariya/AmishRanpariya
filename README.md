@@ -15,7 +15,7 @@
 
 #### I love connecting with different people so if you want to say hi, I'll be happy to meet you more!😇
 <h5>Connect me at👇</h5>
-<a href="https://twitter.com/amish_ranpariya" target="blank">
+<a href="https://twitter.com/RanpariyaAmish" target="blank">
 <img align="left" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" alt="amish_ranpariya" height="30" width="30" />
 </a>
 <a href="https://fb.com/ranpariya.amish" target="blank">
