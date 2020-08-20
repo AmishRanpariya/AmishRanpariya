@@ -116,7 +116,7 @@
 <br/>
 <hr/>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishranpariya&layout=compact&theme=radical" alt="amishranpariya" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishranpariya&theme=radical" alt="amishranpariya" />
 </p>
 <br/>
 <hr/>
