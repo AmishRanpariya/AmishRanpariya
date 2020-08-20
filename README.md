@@ -16,8 +16,8 @@
 
 ---
 
-#### I love connecting with different people so if you want to say hi, I'll be happy to meet you more!😇
-<h5>Connect me at👇</h5>
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more!😇
+##### Connect me at👇
 <a href="https://twitter.com/RanpariyaAmish" target="blank">
 <img align="left" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" alt="amish_ranpariya" height="30" width="30" />
 </a>
