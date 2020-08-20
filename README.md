@@ -11,7 +11,6 @@
 - ⚡ Fun fact **Mobile coder too!! 🙃**
 
 <img align="center" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
-<br/>
 <hr/>
 
 #### I love connecting with different people so if you want to say hi, I'll be happy to meet you more!😇
@@ -48,21 +47,14 @@
 <br/>
 
 
-<h5>Front-end development</h5>
+<h5>Web development</h5>
 <p>
 <img align="left" src="https://image.flaticon.com/icons/svg/1199/1199118.svg" alt="html5" width="40" height="40"/> 
 <img align="left" src="https://image.flaticon.com/icons/svg/1199/1199113.svg" alt="css3" width="40" height="40"/> 
 <img align="left"  src="https://image.flaticon.com/icons/svg/1199/1199124.svg" alt="javascript" width="40" height="40"/> 
 <img align="left" src="https://p5js.org/assets/img/p5js.svg" alt="p5js" width="40" height="25"/>
-</p>
-<br/>
-
-
-<h5>Back-end development</h5>
-<p>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 <img align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-<img align="left"  src="https://image.flaticon.com/icons/svg/1199/1199124.svg" alt="javascript" width="40" height="40"/> 
 </p>
 <br/>
 
