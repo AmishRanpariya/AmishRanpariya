@@ -30,9 +30,6 @@
 <a href="https://www.linkedin.com/in/amish-ranpariya-753662156" target="blank">
 <img align="left" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" alt="amish ranpariya" height="30" width="30" />
 </a>
-<a href="amishranpariya@gmail.com" target="blank">
-<img align="left" src="https://image.flaticon.com/icons/svg/2965/2965306.svg" alt="amish ranpariya" height="30" width="30" />
-</a>
 <br/>
 &nbsp;
 
