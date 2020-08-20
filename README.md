@@ -16,19 +16,22 @@
 #### I love connecting with different people so if you want to say hi, I'll be happy to meet you more!😇
 <h5>Connect me at👇</h5>
 <a href="https://twitter.com/amish_ranpariya" target="blank">
-<img align="left" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" alt="amish_ranpariya" height="30" width="30" />
+<img align="left" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" alt="amish_ranpariya" height="30" width="30" />
 </a>
 <a href="https://fb.com/ranpariya.amish" target="blank">
-<img align="left" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" alt="ranpariya.amish" height="30" width="30" />
+<img align="left" src="https://image.flaticon.com/icons/svg/1409/1409943.svg" alt="ranpariya.amish" height="30" width="30" />
 </a>
 <a href="https://instagram.com/amish_ranpariya" target="blank">
-<img align="left" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" alt="amish_ranpariya" height="30" width="30" />
+<img align="left" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" alt="amish_ranpariya" height="30" width="30" />
 </a>
 <a href="https://www.youtube.com/c/amish ranpariya" target="blank">
-<img align="left" src="https://image.flaticon.com/icons/svg/779/779125.svg" alt="amish ranpariya" height="30" width="30" />
+<img align="left" src="https://image.flaticon.com/icons/svg/1409/1409936.svg" alt="amish ranpariya" height="30" width="30" />
 </a>
 <a href="https://www.linkedin.com/in/amish-ranpariya-753662156" target="blank">
-<img align="left" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" alt="amish ranpariya" height="30" width="30" />
+<img align="left" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" alt="amish ranpariya" height="30" width="30" />
+</a>
+<a href="amishranpariya@gmail.com" target="blank">
+<img align="left" src="https://image.flaticon.com/icons/svg/2965/2965306.svg" alt="amish ranpariya" height="30" width="30" />
 </a>
 <br/>
 &nbsp;
