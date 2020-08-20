@@ -6,9 +6,9 @@
 ---
 
 ### 🌱 What do I do? 
-- 🎓 I am having a Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Hamirpur. 
+- 🎓 I am having a Bachelor of Technology focused in Computer Science and engineering from **National Institute of Technology, Hamirpur**. 
 - 💻 I'm a fast learner looking for interesting career opportunities in Android and Web as a full-stack developer. I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills. 
-- 🕒Currently, I am looking for internships and creative projects in the field of Computer science and engineering. 
+- 🕒Currently, I am looking for **internships** and **creative projects** in the field of Computer science and engineering. 
 - 🌱 I’m currently learning **JavaScript, p5.js, processing**
 - 💬 Ping me about **Anything**, I'm glad to help you!😇
 - ⚡ Fun fact: **I'm Mobile coder too!! 🙃**
