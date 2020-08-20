@@ -1,6 +1,6 @@
 # Hey😎, nice to see you!
 ## I'm Amish & I ❤️ code
-### A developer💻 from India🇮🇳
+> A developer💻 from India🇮🇳
 <p> <img src="https://komarev.com/ghpvc/?username=amishranpariya" alt="amishranpariya" /> </p>
 
 ---
@@ -37,7 +37,6 @@
 &nbsp;
 
 
-
 ---
 
 ```
@@ -45,11 +44,11 @@
 ```
 <br/>
 <p>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-<img align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> 
+<img align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 </p>
 
 
@@ -61,11 +60,11 @@
 ```
 <br/>
 <p>
-<img align="left" src="https://image.flaticon.com/icons/svg/1199/1199118.svg" alt="html5" width="40" height="40"/> 
-<img align="left" src="https://image.flaticon.com/icons/svg/1199/1199113.svg" alt="css3" width="40" height="40"/> 
-<img align="left"  src="https://image.flaticon.com/icons/svg/1199/1199124.svg" alt="javascript" width="40" height="40"/> 
-<img align="left" src="https://p5js.org/assets/img/p5js.svg" alt="p5js" width="40" height="25"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+<img align="left" src="https://image.flaticon.com/icons/svg/1199/1199118.svg" alt="html5" width="30" height="30"/> 
+<img align="left" src="https://image.flaticon.com/icons/svg/1199/1199113.svg" alt="css3" width="30" height="30"/> 
+<img align="left"  src="https://image.flaticon.com/icons/svg/1199/1199124.svg" alt="javascript" width="30" height="30"/> 
+<img align="left" src="https://p5js.org/assets/img/p5js.svg" alt="p5js" width="30" height="20"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
 </p>
 <br/>
 &nbsp;
@@ -75,8 +74,8 @@
 ```
 <br/>
 <p>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>  
-<img align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/>  
+<img align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> 
 </p>
 <br/>
 &nbsp;
@@ -86,10 +85,10 @@
 ```
 <br/>
 <p>
-<img align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img align="left"  src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img align="left" src="https://p5js.org/assets/img/p5js.svg" alt="p5js" width="40" height="25"/>
+<img align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+<img align="left"  src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+<img align="left" src="https://p5js.org/assets/img/p5js.svg" alt="p5js" width="30" height="20"/>
 </p>
 <br/>
 &nbsp;
@@ -99,8 +98,8 @@
 ```
 <br/>
 <p>
- <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
- <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+ <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
+ <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
 </p>
 <br/>
 &nbsp;
@@ -110,9 +109,9 @@
 ```
 <br/>
 <p>
-<img align="left" src="https://p5js.org/assets/img/p5js.svg" alt="p5js" width="40" height="25"/>
-<img align="left" src="https://image.flaticon.com/icons/svg/1199/1199124.svg" alt="javascript" width="40" height="40"/> 
-<img align="left" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
+<img align="left" src="https://p5js.org/assets/img/p5js.svg" alt="p5js" width="30" height="20"/>
+<img align="left" src="https://image.flaticon.com/icons/svg/1199/1199124.svg" alt="javascript" width="30" height="30"/> 
+<img align="left" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/> 
 </p>
 <br/>
 &nbsp;
@@ -122,11 +121,11 @@
 ```
 <br/>
 <p >
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="linux" width="40" height="40"/> 
-<img align="left" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="linux" width="40" height="40"/> 
-<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="linux" width="30" height="30"/> 
+<img align="left" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/> 
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="linux" width="30" height="30"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
 </p>
 <br/>
 
