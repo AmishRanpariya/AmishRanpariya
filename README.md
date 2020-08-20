@@ -28,6 +28,7 @@
 <a href="https://www.linkedin.com/in/amish-ranpariya-753662156" target="blank">
 <img align="left" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" alt="amish ranpariya" height="30" width="30" />
 </a>
+<br/>
 <hr/>
 <h5>Programming languages</h5>
 <p>
