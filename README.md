@@ -10,7 +10,7 @@
 - 💬 Ping me about **Anything**, I'm glad to help you!😇
 - ⚡ Fun fact **Mobile coder too!! 🙃**
 
-<img align="center" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="center" height="225" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 <hr/>
 
 #### I love connecting with different people so if you want to say hi, I'll be happy to meet you more!😇
