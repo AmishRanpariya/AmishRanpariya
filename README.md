@@ -1,13 +1,13 @@
-<h1 align="center">Hello 👋, I'm Amish</h1>
-<h3 align="center">A developer💻 from India🇮🇳</h3>
-
+<h1 align="left">Hey😎, nice to see you!!</h1>
+<h2 align="left">I'm Amish & I ❤️ code</h2>
+<h3 align="left">A developer💻 from India🇮🇳</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishranpariya" alt="amishranpariya" /> </p>
 
 - 🌱 I’m currently learning **p5.js, processing**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ping me about **JavaScript**
 
-- 📫 How to reach me **amishranpariya@gmail.com**
+- 📫 Reach me at **amishranpariya@gmail.com**
 
 - ⚡ Fun fact **Mobile coder too!! 🙃**
 <br/>
