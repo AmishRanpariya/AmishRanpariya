@@ -46,9 +46,9 @@
 <h5 align="center">Front-end development</h5>
 <p align="center">
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://image.flaticon.com/icons/svg/1199/1199118.svg" alt="html5" width="40" height="40"/> 
+<img src="https://image.flaticon.com/icons/svg/1199/1199113.svg" alt="css3" width="40" height="40"/> 
+<img src="https://image.flaticon.com/icons/svg/1199/1199124.svg" alt="javascript" width="40" height="40"/> 
 </p>
 
 <h5 align="center">Back-end development</h5>
@@ -57,7 +57,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://image.flaticon.com/icons/svg/1199/1199124.svg" alt="javascript" width="40" height="40"/> 
 </p>
 
 <h5 align="center">Mobile-App development</h5>
@@ -88,7 +88,7 @@
 <h5 align="center">Data visualisation</h5>
 <p align="center">
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://image.flaticon.com/icons/svg/1199/1199124.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
 </p>
 
