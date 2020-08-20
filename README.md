@@ -96,6 +96,7 @@
 
 #### ⚙️ Other Softwares
 <p >
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="linux" width="40" height="40"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
 <img align="left" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="linux" width="40" height="40"/> 
@@ -103,8 +104,8 @@
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </p>
 <br/>
-
 &nbsp;
+
 <hr/>
 
 <p>
