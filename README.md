@@ -14,16 +14,19 @@
 
 <p align="center">
 <a href="https://twitter.com/amish_ranpariya" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amish_ranpariya" height="30" width="30" />
+<img align="center" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" alt="amish_ranpariya" height="30" width="30" />
 </a>
 <a href="https://fb.com/ranpariya.amish" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ranpariya.amish" height="30" width="30" />
+<img align="center" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" alt="ranpariya.amish" height="30" width="30" />
 </a>
 <a href="https://instagram.com/amish_ranpariya" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amish_ranpariya" height="30" width="30" />
+<img align="center" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" alt="amish_ranpariya" height="30" width="30" />
 </a>
 <a href="https://www.youtube.com/c/amish ranpariya" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="amish ranpariya" height="30" width="30" />
+<img align="center" src="https://image.flaticon.com/icons/svg/779/779125.svg" alt="amish ranpariya" height="30" width="30" />
+</a>
+<a href="https://www.linkedin.com/in/amish-ranpariya-753662156" target="blank">
+<img align="center" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" alt="amish ranpariya" height="30" width="30" />
 </a>
 </p>
 <h5 align="center">Programming languages</h5>
