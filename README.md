@@ -120,7 +120,7 @@
 </p>
 <br/>
 <hr/>
-<p>&nbsp;
+<p>
 <img  src="https://github-readme-stats.vercel.app/api?username=amishranpariya&show_icons=true&theme=radical" alt="amishranpariya" />
 </p>
 
