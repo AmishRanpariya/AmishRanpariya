@@ -36,7 +36,8 @@
 
 
 <hr/>
-<h5>Programming languages</h5>
+
+#### Programming languages
 <p>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -45,29 +46,29 @@
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 <br/>
+&nbsp;
 
-
-<h5>Web development</h5>
+#### Web development
 <p>
 <img align="left" src="https://image.flaticon.com/icons/svg/1199/1199118.svg" alt="html5" width="40" height="40"/> 
 <img align="left" src="https://image.flaticon.com/icons/svg/1199/1199113.svg" alt="css3" width="40" height="40"/> 
 <img align="left"  src="https://image.flaticon.com/icons/svg/1199/1199124.svg" alt="javascript" width="40" height="40"/> 
 <img align="left" src="https://p5js.org/assets/img/p5js.svg" alt="p5js" width="40" height="25"/>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-<img align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 </p>
+
+&nbsp;
 <br/>
 
-
-<h5>Mobile-App development</h5>
+#### Mobile-App development
 <p>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>  
 <img align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
 </p>
 <br/>
+&nbsp;
 
-
-<h5>AI | ML</h5>
+#### AI | ML
 <p>
 <img align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img align="left"  src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
@@ -75,35 +76,29 @@
 <img align="left" src="https://p5js.org/assets/img/p5js.svg" alt="p5js" width="40" height="25"/>
 </p>
 <br/>
+&nbsp;
 
-
-<h5>Databases</h5>
+#### Databases
 <p>
  <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
  <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </p>
 <br/>
+&nbsp;
 
-
-<h5>Data visualisation</h5>
+#### Data visualisation
 <p>
 <img align="left" src="https://p5js.org/assets/img/p5js.svg" alt="p5js" width="40" height="25"/>
 <img align="left" src="https://image.flaticon.com/icons/svg/1199/1199124.svg" alt="javascript" width="40" height="40"/> 
 <img align="left" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
 </p>
 <br/>
+&nbsp;
 
-
-<h5 >Softwares</h5>
+#### Other Softwares
 <p >
- <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
 <img align="left" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-</p>
-<br/>
-
-
-<h5>Others</h5>
-<p>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="linux" width="40" height="40"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
