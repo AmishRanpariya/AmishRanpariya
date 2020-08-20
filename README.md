@@ -56,9 +56,8 @@
 <img align="left" src="https://p5js.org/assets/img/p5js.svg" alt="p5js" width="40" height="25"/>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </p>
-
-&nbsp;
 <br/>
+&nbsp;
 
 #### Mobile-App development
 <p>
