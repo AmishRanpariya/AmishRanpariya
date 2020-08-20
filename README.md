@@ -7,7 +7,7 @@
 - 🎓 I am having a Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Hamirpur. 
 - 💻 I'm a fast learner looking for interesting career opportunities in Android and Web as a full-stack developer. I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills. Currently, I am looking for internships and creative projects in the field of Computer science and engineering. 
 - 🌱 I’m currently learning **JavaScript, p5.js, processing**
-- 💬 Ping me about **Anything** glad to help you!😇
+- 💬 Ping me about **Anything**, I'm glad to help you!😇
 - ⚡ Fun fact **Mobile coder too!! 🙃**
 
 <img align="center" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
@@ -37,7 +37,7 @@
 
 <hr/>
 
-#### Programming languages
+#### 🧩 Programming languages
 <p>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -48,7 +48,7 @@
 <br/>
 &nbsp;
 
-#### Web development
+#### 🖼️ Web development
 <p>
 <img align="left" src="https://image.flaticon.com/icons/svg/1199/1199118.svg" alt="html5" width="40" height="40"/> 
 <img align="left" src="https://image.flaticon.com/icons/svg/1199/1199113.svg" alt="css3" width="40" height="40"/> 
@@ -59,7 +59,7 @@
 <br/>
 &nbsp;
 
-#### Mobile-App development
+#### 📱 Mobile-App development
 <p>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>  
 <img align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
@@ -67,7 +67,7 @@
 <br/>
 &nbsp;
 
-#### AI | ML
+#### 🎯 AI | ML
 <p>
 <img align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img align="left"  src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
@@ -77,7 +77,7 @@
 <br/>
 &nbsp;
 
-#### Databases
+#### 💾 Databases
 <p>
  <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
  <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -85,7 +85,7 @@
 <br/>
 &nbsp;
 
-#### Data visualisation
+#### 📊 Data visualisation
 <p>
 <img align="left" src="https://p5js.org/assets/img/p5js.svg" alt="p5js" width="40" height="25"/>
 <img align="left" src="https://image.flaticon.com/icons/svg/1199/1199124.svg" alt="javascript" width="40" height="40"/> 
@@ -94,7 +94,7 @@
 <br/>
 &nbsp;
 
-#### Other Softwares
+#### ⚙️ Other Softwares
 <p >
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
 <img align="left" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
@@ -120,4 +120,4 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=AmishRanpariya&color=000000">
 </a>
 
-### Show some ❤️ by starring some of the repositories!
+#### Show some ❤️ by starring some of the repositories!
