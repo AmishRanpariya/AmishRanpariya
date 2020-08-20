@@ -1,22 +1,20 @@
-<h1 align="left">Hey😎, nice to see you!!</h1>
+<h1 align="left">Hey😎, nice to see you!</h1>
 <h2 align="left">I'm Amish & I ❤️ code</h2>
 <h3 align="left">A developer💻 from India🇮🇳</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishranpariya" alt="amishranpariya" /> </p>
 
-- 🌱 I’m currently learning **p5.js, processing**
-
-- 💬 Ping me about **JavaScript**
-
-- 📫 Reach me at **amishranpariya@gmail.com**
-
+### 🌱 What do I do? 
+- 🎓 I am having a Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Hamirpur. 
+- 💻 I'm a fast learner looking for interesting career opportunities in Android and Web as a full-stack developer. I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills. Currently, I am looking for internships and creative projects in the field of Computer science and engineering. 
+- 🌱 I’m currently learning **JavaScript, p5.js, processing**
+- 💬 Ping me about **Anything** glad to help you!😇
 - ⚡ Fun fact **Mobile coder too!! 🙃**
-
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 <br/>
 <hr/>
 
-
+#### I love connecting with different people so if you want to say hi, I'll be happy to meet you more!😇
 <h5>Connect me at👇</h5>
 <a href="https://twitter.com/amish_ranpariya" target="blank">
 <img align="left" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" alt="amish_ranpariya" height="30" width="30" />
@@ -132,4 +130,8 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=amishranpariya&show_icons=true&theme=radical" alt="amishranpariya" />
 </p>
 
+<a href="https://github.com/AmishRanpariya" alt="https://github.com/AmishRanpariya">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=AmishRanpariya&color=000000">
+</a>
 
+### Show some ❤️ by starring some of the repositories!
