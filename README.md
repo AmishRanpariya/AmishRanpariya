@@ -118,7 +118,6 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishranpariya&theme=radical" alt="amishranpariya" />
 </p>
-<br/>
 <hr/>
 <p>
 <img  src="https://github-readme-stats.vercel.app/api?username=amishranpariya&show_icons=true&theme=radical" alt="amishranpariya" />
