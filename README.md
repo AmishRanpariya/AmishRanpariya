@@ -1,22 +1,23 @@
 # Hey😎, nice to see you!
 ## I'm Amish & I ❤️ code
-> A developer💻 from India🇮🇳
+> A developer💻 and AI enthusiast📊 from India🇮🇳
 <p> <img src="https://komarev.com/ghpvc/?username=amishranpariya" alt="amishranpariya" /> </p>
 
 ---
 
 ### 🌱 What do I do? 
 - 🎓 I am having a Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Hamirpur. 
-- 💻 I'm a fast learner looking for interesting career opportunities in Android and Web as a full-stack developer. I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills. Currently, I am looking for internships and creative projects in the field of Computer science and engineering. 
+- 💻 I'm a fast learner looking for interesting career opportunities in Android and Web as a full-stack developer. I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills. 
+- 🕒Currently, I am looking for internships and creative projects in the field of Computer science and engineering. 
 - 🌱 I’m currently learning **JavaScript, p5.js, processing**
 - 💬 Ping me about **Anything**, I'm glad to help you!😇
-- ⚡ Fun fact **Mobile coder too!! 🙃**
+- ⚡ Fun fact: **I'm Mobile coder too!! 🙃**
 
 <img align="center" height="225" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 ---
 
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more!😇
+👋I love connecting with different people so if you want to say hi, I'll be happy to meet you more!😇
 ##### Connect me at👇
 <a href="https://twitter.com/RanpariyaAmish" target="blank">
 <img align="left" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" alt="amish_ranpariya" height="30" width="30" />
