@@ -10,10 +10,12 @@
 - 📫 Reach me at **amishranpariya@gmail.com**
 
 - ⚡ Fun fact **Mobile coder too!! 🙃**
+
+
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<h5>Connect me at👇</h5>
 <br/>
 <hr/>
-<h5>Connect me at👇</h5>
-
 <a href="https://twitter.com/amish_ranpariya" target="blank">
 <img align="left" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" alt="amish_ranpariya" height="30" width="30" />
 </a>
