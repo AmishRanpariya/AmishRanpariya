@@ -30,6 +30,7 @@
 <img align="left" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" alt="amish ranpariya" height="30" width="30" />
 </a>
 <br/>
+&nbsp;
 <hr/>
 <h5>Programming languages</h5>
 <p>
@@ -114,6 +115,7 @@
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </p>
 <br/>
+&nbsp;
 <hr/>
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishranpariya&theme=radical" alt="amishranpariya" />
