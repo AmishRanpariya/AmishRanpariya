@@ -132,14 +132,14 @@
 
 ---
 
-![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=amishranpariya&theme=radical)
+![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=amishranpariya&bg_color=0,000000,53346D&title_color=fff&text_color=fff)
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=amishranpariya&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=amishranpariya&bg_color=0,000000,53346D&title_color=fff&text_color=fff)
 
 <a href="https://github.com/AmishRanpariya" alt="https://github.com/AmishRanpariya">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=AmishRanpariya&color=000000">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=AmishRanpariya&color=53346D">
 </a>
 
 #### Show some ❤️ by starring some of the repositories!
