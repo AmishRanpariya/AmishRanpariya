@@ -1,7 +1,6 @@
 # Hey😎, nice to see you!
 ## I'm Amish & I ❤️ code
 > A developer💻 and AI enthusiast📊 from India🇮🇳
-<p> <img src="https://komarev.com/ghpvc/?username=amishranpariya" alt="amishranpariya" /> </p>
 
 ---
 
@@ -141,5 +140,6 @@
 <a href="https://github.com/AmishRanpariya" alt="https://github.com/AmishRanpariya">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=AmishRanpariya&color=53346D">
 </a>
+<p> <img src="https://komarev.com/ghpvc/?username=amishranpariya" alt="amishranpariya" /> </p>
 
 #### Show some ❤️ by starring some of the repositories!
