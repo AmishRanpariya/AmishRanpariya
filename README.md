@@ -136,8 +136,8 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=amishranpariya&bg_color=0,000000,53346D&title_color=fff&text_color=fff)
 
 <a href="https://github.com/AmishRanpariya" alt="https://github.com/AmishRanpariya">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=AmishRanpariya&color=53346D">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&labelColor=000&label=CREATED%20BY&message=AmishRanpariya&color=53346D">
 </a>
-<p> <img src="https://komarev.com/ghpvc/?username=amishranpariya" alt="amishranpariya" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=amishranpariya&style=flat-square&color=53346D" alt="amishranpariya" /> </p>
 
 #### Show some ❤️ by starring some of the repositories!
