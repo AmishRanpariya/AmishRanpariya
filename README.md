@@ -1,6 +1,6 @@
 # Hey😎, nice to see you!
 ## I'm Amish & I ❤️ code
-> A developer💻 and AI enthusiast📊 from India🇮🇳
+> A developer💻 and AI enthusiast📊 from India
 
 ### 🌱 What do I do? 
 - 🎓 I am having a Bachelor of Technology focused in Computer Science and engineering from **National Institute of Technology, Hamirpur**. 
