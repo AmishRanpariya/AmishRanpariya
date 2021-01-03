@@ -61,7 +61,8 @@
 <img align="left" src="./images/css.svg" alt="css3" width="30" height="30"/> 
 <img align="left"  src="./images/javascript.svg" alt="javascript" width="30" height="30"/> 
 <img align="left" src="https://p5js.org/assets/img/p5js.svg" alt="p5js" width="30" height="20"/>
-<img align="left" src="./images/nodejs.svg" alt="nodejs" width="30" height="30"/> 
+<img align="left" src="./images/nodejs.svg" alt="nodejs" width="30" height="30"/> <img align="left" src="./images/sass.svg" alt="sass" width="30" height="30"/> 
+<img align="left" src="./images/jquery.svg" alt="jquery" width="30" height="30"/> 
 </p>
 <br/>
 &nbsp;
