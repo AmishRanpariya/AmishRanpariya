@@ -111,7 +111,7 @@
 <img align="left" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/> 
 <img align="left" src="./images/github.svg" alt="github" width="30" height="30"/> 
 <img align="left" src="./images/git.svg" alt="git" width="30" height="30"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
+
 </p>
 <br/>
 
