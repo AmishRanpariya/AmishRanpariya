@@ -10,6 +10,7 @@
 - 💬 Ping me about **Anything**, I'm glad to help you!😇
 
 <img align="center" height="225" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+
 ---
 
 👋 I love connecting with different people so if you want to say hi, I'll be happy to meet you!😇
@@ -30,6 +31,7 @@
 <img align="left" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" alt="amish_ranpariya" width="8%" />
 </a>
 <br>
+
 ---
 
 ![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=amishranpariya&bg_color=0,000000,53346D&title_color=fff&text_color=fff)
