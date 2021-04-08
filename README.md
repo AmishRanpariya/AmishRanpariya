@@ -1,11 +1,14 @@
 # Hey😎, nice to see you!
-## I'm Amish & I ❤️ code
-> A developer💻 and AI enthusiast📊 from India
 
-### 🌱 What do I do? 
-- 🎓 I am having a Bachelor of Technology focused in Computer Science and engineering from **National Institute of Technology, Hamirpur (NIT Hamirpur)**. 
-- 💻 I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
-- 🕒 Currently, I am looking for **internships** and **creative projects** in the field of Computer science and engineering. 
+> ### Myself Amish Ranpariya & I ❤️ coding
+>
+> > A developer💻 and AI enthusiast📊 from India
+
+### 🌱 What do I do?
+
+- 🎓 Currently, I am pursuing a Bachelor of Technology focused in Computer Science and engineering from **National Institute of Technology, Hamirpur (NIT Hamirpur)**.
+- 💻 I'm a fast learner looking for interesting career opportunities in the Web as a full-stack developer.
+- 🕒 Currently, I am looking for **internships** and **creative projects** in the field of Computer science and engineering.
 - 🌱 I’m currently learning **JavaScript, UI design, p5.js**
 - 💬 Ping me about **Anything**, I'm glad to help you!😇
 
@@ -13,8 +16,10 @@
 
 ---
 
-👋 I love connecting with different people so if you want to say hi, I'll be happy to meet you!😇
+👋 I love connecting with different people so if you want to say hi, I'll be happy to meet you! 😇
+
 ##### Connect me at👇
+
 <a href="https://www.linkedin.com/in/amish-ranpariya-753662156" target="blank">
 <img align="left" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" alt="amish ranpariya" width="8%" />
 </a>
@@ -30,7 +35,8 @@
 <a href="https://twitter.com/RanpariyaAmish" target="blank">
 <img align="left" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" alt="amish_ranpariya" width="8%" />
 </a>
-<br>
+
+## <br>
 
 ---
 
@@ -46,3 +52,4 @@
 <p> <img src="https://komarev.com/ghpvc/?username=amishranpariya&style=flat-square&color=53346D" alt="amishranpariya" /> </p>
 
 #### Show some ❤️ by starring some of the repositories!
+
