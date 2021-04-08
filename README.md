@@ -20,6 +20,7 @@
 
 ##### Connect me at👇
 
+<p>
 <a href="https://www.linkedin.com/in/amish-ranpariya-753662156" target="blank">
 <img align="left" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" alt="amish ranpariya" width="8%" />
 </a>
@@ -35,6 +36,7 @@
 <a href="https://twitter.com/RanpariyaAmish" target="blank">
 <img align="left" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" alt="amish_ranpariya" width="8%" />
 </a>
+</p>
 
 <br>
 <br>
@@ -53,5 +55,3 @@
 <p> <img src="https://komarev.com/ghpvc/?username=amishranpariya&style=flat-square&color=53346D" alt="amishranpariya" /> </p>
 
 #### Show some ❤️ by starring some of the repositories!
-
-
