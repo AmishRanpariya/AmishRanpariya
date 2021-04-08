@@ -38,7 +38,11 @@
 </a>
 </p>
 
+<br>
+
 ---
+
+<br>
 
 ![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=amishranpariya&bg_color=0,000000,53346D&title_color=fff&text_color=fff)
 
