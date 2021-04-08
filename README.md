@@ -37,9 +37,8 @@
 <img align="left" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" alt="amish_ranpariya" width="8%" />
 </a>
 </p>
-
-<br>
-<br>
+</br>
+. 
 
 ---
 
@@ -55,3 +54,4 @@
 <p> <img src="https://komarev.com/ghpvc/?username=amishranpariya&style=flat-square&color=53346D" alt="amishranpariya" /> </p>
 
 #### Show some ❤️ by starring some of the repositories!
+
