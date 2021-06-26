@@ -9,7 +9,7 @@
 - 🎓 Currently, I am pursuing a Bachelor of Technology focused in Computer Science and engineering from **National Institute of Technology, Hamirpur (NIT Hamirpur)**.
 - 💻 I'm a fast learner looking for interesting career opportunities in the Web as a full-stack developer.
 - 🕒 Currently, I am looking for **internships** and **creative projects** in the field of Computer science and engineering.
-- 🌱 I’m currently learning **JavaScript, UI design, p5.js**
+- 🌱 I’m currently learning **React, Node Stack**
 - 💬 Ping me about **Anything**, I'm glad to help you!😇
 
 <img align="center" height="225" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
