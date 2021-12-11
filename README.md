@@ -18,24 +18,19 @@
 
 ##### Connect me at👇
 
-<p>
 <a href="https://www.linkedin.com/in/amish-ranpariya-753662156" target="blank">
-<img align="left" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" alt="amish ranpariya" width="8%" />
-</a>
-<a href="https://instagram.com/amish_ranpariya" target="blank">
-<img align="left" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" alt="amish_ranpariya" width="8%" />
-</a>
+Linkedin
+</a> |
+<a href="https://www.instagram.com/amish_ranpariya/" target="blank">
+Instagram
+</a> |
 <a href="https://fb.com/ranpariya.amish" target="blank">
-<img align="left" src="https://image.flaticon.com/icons/svg/1409/1409943.svg" alt="ranpariya.amish" width="8%" />
-</a>
+Facebook
+</a> |
 <a href="https://twitter.com/RanpariyaAmish" target="blank">
-<img align="left" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" alt="amish_ranpariya" width="8%" />
+Twitter
 </a>
-</p>
 
-<br>
-<br>
-<br>
 <hr>
 
 ![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=amishranpariya&bg_color=0,000000,53346D&title_color=fff&text_color=fff)
@@ -44,6 +39,4 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=amishranpariya&bg_color=0,000000,53346D&title_color=fff&text_color=fff)
 
-
 #### Show some ❤️ by starring some of the repositories!
-
