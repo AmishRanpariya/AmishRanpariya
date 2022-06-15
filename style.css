@@ -78,7 +78,7 @@ body {
 }
 @media (min-width: 768px) {
 	.main {
-		padding: 60px;
+		padding: 40px;
 	}
 }
 
@@ -239,7 +239,12 @@ body {
 }
 @media (min-width: 768px) {
 	.card_left {
-		width: 260px;
+		width: 25%;
+	}
+}
+@media (min-width: 768px) {
+	.education .card_left {
+		width: 50%;
 	}
 }
 
