@@ -23,12 +23,6 @@ Linkedin
 </a> |
 <a href="https://www.instagram.com/amish_ranpariya/" target="blank">
 Instagram
-</a> |
-<a href="https://fb.com/ranpariya.amish" target="blank">
-Facebook
-</a> |
-<a href="https://twitter.com/RanpariyaAmish" target="blank">
-Twitter
 </a>
 
 <hr>
