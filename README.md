@@ -23,20 +23,4 @@ Linkedin
 </a> |
 <a href="https://www.instagram.com/amish_ranpariya/" target="blank">
 Instagram
-</a> |
-<a href="https://fb.com/ranpariya.amish" target="blank">
-Facebook
-</a> |
-<a href="https://twitter.com/RanpariyaAmish" target="blank">
-Twitter
 </a>
-
-<hr>
-
-![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=amishranpariya&bg_color=0,000000,53346D&title_color=fff&text_color=fff)
-
----
-
-![stats](https://github-readme-stats.vercel.app/api?username=amishranpariya&bg_color=0,000000,53346D&title_color=fff&text_color=fff)
-
-#### Show some ❤️ by starring some of the repositories!
