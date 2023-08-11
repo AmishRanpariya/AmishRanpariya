@@ -25,6 +25,20 @@ body {
 	font-variant-ligatures: contextual common-ligatures;
 	font-kerning: normal;
 }
+
+b {
+	width: 0px;
+	height: 0px;
+	max-width: 0px;
+	max-height: 0px;
+	font-size: 1px;
+	overflow: hidden;
+	color: #fff;
+}
+b::selection {
+	color: transparent;
+}
+
 @media (min-width: 1024px) {
 	body {
 		font-size: 15px;
@@ -61,10 +75,11 @@ body {
 		background-color: #f0f3f5;
 	}
 }
+
 .innerWrapper {
 	margin: 0 auto;
 	width: 100%;
-	max-width: 1000px;
+	max-width: 1380px;
 	background-color: #f0f3f5;
 	overflow: hidden;
 	min-height: auto;
@@ -73,7 +88,7 @@ body {
 .main {
 	margin: 0 auto;
 	width: 100%;
-	max-width: 1080px;
+	max-width: 1150px;
 	padding: 40px 24px;
 }
 @media (min-width: 768px) {
@@ -83,7 +98,7 @@ body {
 }
 
 .mb_48 {
-	margin-bottom: 48px;
+	margin-bottom: 38px;
 }
 .mb_78 {
 	margin-bottom: 78px;
@@ -205,7 +220,7 @@ body {
 	color: #232e53;
 	line-height: 1.4;
 	font-size: 32px;
-	margin-bottom: 32px;
+	margin-bottom: 20px;
 }
 
 .card {
@@ -328,9 +343,9 @@ body {
 } */
 
 .skill_category_container {
-	margin-bottom: 20px;
+	margin-bottom: 28px;
 	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
 	-webkit-box-flex: 1;
 	-webkit-flex-grow: 1;
 	-ms-flex-positive: 1;
@@ -338,7 +353,7 @@ body {
 }
 
 .skill_category {
-	margin-bottom: 32px;
+	margin-bottom: 10px;
 	padding-right: 16px;
 }
 
