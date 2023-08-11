@@ -72,7 +72,7 @@ b::selection {
 @media not screen and (min-width: 768px) {
 	.wrapper {
 		padding: 0 !important;
-		background-color: #f0f3f5;
+		background-color: #fff;
 	}
 }
 
@@ -83,6 +83,11 @@ b::selection {
 	background-color: #f0f3f5;
 	overflow: hidden;
 	min-height: auto;
+}
+@media not screen and (min-width: 768px) {
+	.innerWrapper {
+		background-color: #fff;
+	}
 }
 
 .main {
@@ -345,7 +350,7 @@ b::selection {
 .skill_category_container {
 	margin-bottom: 28px;
 	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+	grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
 	-webkit-box-flex: 1;
 	-webkit-flex-grow: 1;
 	-ms-flex-positive: 1;
