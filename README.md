@@ -6,8 +6,7 @@
 
 ### 🌱 What do I do?
 
-- 🎓 Currently, I am pursuing a B.Tech. focused in Computer Science and Engineering from **National Institute of Technology, Hamirpur, H.P. (NIT Hamirpur)**.
-- 💻 I'm a fast learner looking for interesting career opportunities in the Web as a developer.
+- 🎓 Currently, I am pursuing a M.Tech. focused in Computer Science and Engineering from **National Institute of Technology, Hamirpur, H.P. (NIT Hamirpur)**.
 - 💬 Ping me about **Anything**, I'm glad to help you!😇
 
 <img align="center" height="225" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
