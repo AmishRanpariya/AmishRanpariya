@@ -1,7 +1,7 @@
 # Amish  Ranpariya
 <img align="center" height="225" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-Accomplished software engineer with 2+ years of experience delivering high-quality applications using React, NextJS, Tailwind CSS, Firebase, and AWS. Proven ability to lead and manage teams to deliver high-quality, on-time, and within-budget projects. Passionate about implementing and launching new projects that make a positive impact on the world. Strong problem-solving and analytical skills, fueled by a commitment to continuous learning and improvement.
+Accomplished software engineer with 3+ years of experience delivering high-quality applications using React, NextJS, Tailwind CSS, Firebase, and AWS. Proven ability to lead and manage teams to deliver high-quality, on-time, and within-budget projects. Passionate about implementing and launching new projects that make a positive impact on the world. Strong problem-solving and analytical skills, fueled by a commitment to continuous learning and improvement.
 
 Senior Software Engineer |  [amishranpariya@gmail.com](mailto:amishranpariya@gmail.com)  |  [+918128167201](tel:+918128167201)  |   [linkedin.com/amishranpariya](https://www.linkedin.com/in/amishranpariya)
 
