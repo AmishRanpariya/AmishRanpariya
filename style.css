@@ -118,6 +118,7 @@ b::selection {
 	-webkit-justify-content: space-between;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
+	align-items: center;
 	position: relative;
 	margin-bottom: 20px;
 }
@@ -293,6 +294,15 @@ b::selection {
 		margin-bottom: 6px;
 	}
 }
+
+.techstack {
+	line-height: 1.6;
+	font-size: 14px;
+	margin-bottom: 2px;
+	padding-right: 32px;
+	color: #232e53;
+}
+
 strong {
 	color: inherit;
 	font-weight: 600;
