@@ -174,7 +174,7 @@ b::selection {
 	height: 64px;
 	width: 64px;
 	object-fit: cover;
-	transform: scale(1.15);
+	transform: scale(1.35);
 }
 @media (min-width: 768px) {
 	.image_profile_innerDiv {
