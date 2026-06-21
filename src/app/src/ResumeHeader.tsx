@@ -17,7 +17,7 @@ const ResumeHeader = ({ header }: ResumeHeaderProps) => {
         <h1 className="name_heading font-serif dark:text-gray-100">{name}</h1>
         <div className="flex-shrink-0 flex-grow-0 flex items-center w-16 h-16 md:w-32 md:h-32 absolute top-0 right-4 md:relative md:top-auto md:right-auto rounded-full overflow-hidden">
           <Image
-            src={avatarPath}
+            src={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}${avatarPath}`}
             alt={name}
             width={128}
             height={128}
