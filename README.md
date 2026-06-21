@@ -112,7 +112,7 @@ May 2020
 ## [A Digital Twin Solution for Fault Detection in Time-Critical IIoT Applications](https://doi.org/10.1080/17477778.2025.2453725) | Journal of Simulation (Taylor & Francis)
 
 Published in January 2025
-Topics: Digital Twin, Machine Learning, Fault Detection, IIoT
+Topics: Digitan Twin, Machine Learning, Fault Detection, IIoT
 
 - Developed an end-to-end Digital Twin architecture leveraging a collaborative cloud-edge approach for real-time monitoring and fault detection in IIoT systems.
 - Designed and implemented a lightweight, two-phased machine-learning ensemble model achieving 99.71% accuracy with a 4.8 ms average estimation delay.
